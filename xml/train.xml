@@ -1,0 +1,16 @@
+-<dataSet>
+  -<diffgr:diffgram>
+    -<trainDetailInfo info="trainDetailInfo1" rowOrder="0" hasChanges="inserted">
+      <trainStation>上海南（车次：T81\T80）</trainStation>
+      <arriveTime>15:22:00</arriveTime>
+      <startTime>15:02:00</startTime>
+      <KM>0</KM>
+    </trainDetailInfo>
+    -<trainDetailInfo info="trainDetailInfo2" rowOrder="1" hasChanges="inserted">
+      <trainStation>杭州东</trainStation>
+      <arriveTime>15:29:00</arriveTime>
+      <startTime>15:02:00</startTime>
+      <KM>80</KM>
+    </trainDetailInfo>
+  </diffgr:diffgram>
+</dataSet>
